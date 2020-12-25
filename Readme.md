@@ -16,3 +16,5 @@ To run example:
 
 - To be able to use the UdpSocket.cs script for your own script, REMOVE the lines and functions with a // DELETE THIS comment.
 These lines and functions are for the purposes of the example and do not affect the main functionality.
+
+![alt text](https://github.com/Siliconifier/Python-Unity-Socket-Communication/blob/master/Images/Example.png)
