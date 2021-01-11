@@ -8,13 +8,13 @@ It would be appreciated if you send me how you have used this in your projects (
 Use at your own risk
 Use under the Apache License 2.0
 
-To run example:
-- Ensure IP, send and receive ports are the same between server.py and UdpSocket.cs [edited via inspector] scripts. They are the same in the example.
+To run demo:
+- Ensure IP, send and receive ports are the same between server.py and UdpSocket.cs [edited via inspector] scripts. They are the same in the demo.
 - Run server.py on the python side to send and receive data from Unity
 - Add UdpSocket.cs to a game object in a scene
 - RECOMMENDED: Run server.py THEN Unity Scene
 
 - To be able to use the UdpSocket.cs script for your own script, REMOVE the lines and functions with a // DELETE THIS comment.
-These lines and functions are for the purposes of the example and do not affect the main functionality.
+These lines and functions are for the purposes of the demo and do not affect the main functionality.
 
 ![alt text](https://github.com/Siliconifier/Python-Unity-Socket-Communication/blob/master/Images/Example.png)
